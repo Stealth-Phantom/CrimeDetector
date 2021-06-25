@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497114375767",
+    "project_id": "crimedetector-29f5d",
+    "storage_bucket": "crimedetector-29f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497114375767:android:f816fe365024ae5e75e512",
+        "android_client_info": {
+          "package_name": "eng.asu.crimedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497114375767-8plbbugrndp9vs8ieaj577u83rfvhi5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0w63k33hnQ18hXzz_7zolZYcwdLg1TvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497114375767-8plbbugrndp9vs8ieaj577u83rfvhi5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

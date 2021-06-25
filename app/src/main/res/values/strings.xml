@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CrimeDetector</string>
+    <string name="default_notification_channel_id">1</string>
+    <string name="default_notification_channel_name">Bakugo</string>
+    <string name="fcm_message">Danger! Hollows Detected!</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="welcome">Welcome!</string>
+    <string name="brief">The account was connected to this phone</string>
+    <string name="brief2">Once anything of importance happens, you will be notified!</string>
+    <string name="safe">Stay Safe!</string>
+</resources>
